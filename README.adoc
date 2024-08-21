@@ -112,7 +112,7 @@ We're going to use the `main()` method to drive our application and get the Gree
 `src/main/java/hello/Application.java`
 [source,java,tabsize=2]
 ----
-include::complete/src/main/java/com/example/reactivewebservice/ReactiveWebServiceApplication.java[]
+include::complete/src/main/java/com/example/reactivewebservice/com.example.reactivewebservice.ReactiveWebServiceApplication.java[]
 ----
 
 include::https://raw.githubusercontent.com/spring-guides/getting-started-macros/main/spring-boot-application.adoc[]
