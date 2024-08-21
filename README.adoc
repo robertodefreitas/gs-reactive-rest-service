@@ -148,3 +148,6 @@ Congratulations! You have developed a Reactive Spring application that includes 
 WebClient to consume a RESTful service!
 
 include::https://raw.githubusercontent.com/spring-guides/getting-started-macros/main/footer.adoc[]
+
+== Source
+* https://spring.io/guides/gs/reactive-rest-service
